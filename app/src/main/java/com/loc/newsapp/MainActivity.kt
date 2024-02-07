@@ -35,6 +35,7 @@ class MainActivity : ComponentActivity() {
                 Box(modifier = Modifier.background(MaterialTheme.colorScheme.background)) {
                     OnBoardingScreen()
                     //comment
+                    //another comment
                 }
             }
         }
